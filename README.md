@@ -1,2 +1,3 @@
 # CodeHack-V-CobaltStrike_Scripts
 收集的CobaltStrike后渗透插件，去掉了广告以及修复了BUG。
+项目地址根目录右侧Releases下的Scripts可跳转下载
